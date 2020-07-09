@@ -30,7 +30,7 @@ $( document ).ready(function() {
       console.log("Hai indovinato " + punteggio + " numeri su 5");
       }
 
-  }, 3000);
+  }, 30000);
 });
 
 // FUNZIONI
